@@ -1,0 +1,17 @@
+{
+    "grant_token_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/token/grant",
+    "refresh_token_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/token/refresh",
+    "create_payment_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/create",
+    "execute_payment_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/execute",
+    "query_payment_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/payment/status",
+    "search_transaction_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/general/searchTransaction",
+    "refund_transaction_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/payment/refund",
+
+    "backend_callback_url": "http://localhost:3000/course/payment/confirm", 
+    "frontend_success_url": "http://localhost:3000/course/payment/confirm",
+    "frontend_fail_url": "http://localhost:3000/fail",
+    "username": "01841779449",
+    "password": "3n+B[lHjBg2",
+    "app_key": "xukeqtnlEMpVNP9t1zD8wXIHtc",
+    "app_secret": "tHCzPLBvAJuQgOvOlit9QLHyroTbA12UIcH4iF4jpibMa5DP22kD"
+}
