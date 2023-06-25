@@ -7,9 +7,9 @@
     "search_transaction_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/general/searchTransaction",
     "refund_transaction_url": "https://tokenized.pay.bka.sh/v1.2.0-beta/tokenized/checkout/payment/refund",
 
-    "backend_callback_url": "http://localhost:3000/course", 
-    "frontend_success_url": "http://localhost:3000/course/payment/confirm",
-    "frontend_fail_url": "http://localhost:3000/course",
+    "backend_callback_url": "https://www.researchrider.com/course/course", 
+    "frontend_success_url": "https://www.researchrider.com/course/course/payment/confirm",
+    "frontend_fail_url": "https://www.researchrider.com/course/course",
     "username": "01841779449",
     "password": "3n+B[lHjBg2",
     "app_key": "xukeqtnlEMpVNP9t1zD8wXIHtc",
